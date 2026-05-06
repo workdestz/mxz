@@ -1,0 +1,142 @@
+#EXTM3U
+#EXTINF:-1 group-title="♦️Canais | Casa do Patrão" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraomulticam2.png",Casa do Patrão Multicam 2
+http://172.110.219.252:80/live/47125065/12264670/5144915.ts
+#EXTINF:-1 group-title="♦️Canais | Casa do Patrão" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraosalacozinha.png",Casa do Patrão Sala e Cozinha (Casa Trampo)
+http://172.110.219.252:80/live/47125065/12264670/5144916.ts
+#EXTINF:-1 group-title="♦️Canais | Casa do Patrão" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraoquartocoletivo.png",Casa do Patrão Quarto Coletivo (Casa Trampo)
+http://172.110.219.252:80/live/47125065/12264670/5144917.ts
+#EXTINF:-1 group-title="♦️Canais | Casa do Patrão" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraosuitedopatrao.png",Casa do Patrão Suíte do Patrão
+http://172.110.219.252:80/live/47125065/12264670/5144918.ts
+#EXTINF:-1 group-title="♦️Canais | Casa do Patrão" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraoquartodosparcas.png",Casa do Patrão Quarto dos Parças
+http://172.110.219.252:80/live/47125065/12264670/5144919.ts
+#EXTINF:-1 group-title="♦️Canais | Casa do Patrão" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraoconvivencia.png",Casa do Patrão Casa Convivência
+http://172.110.219.252:80/live/47125065/12264670/5144920.ts
+#EXTINF:-1 group-title="♦️Canais | Casa do Patrão" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraopiscina.png",Casa do Patrão Piscina
+http://172.110.219.252:80/live/47125065/12264670/5144921.ts
+#EXTINF:-1 group-title="♦️Canais | Casa do Patrão" tvg-logo="http://32q0d.xyz/images/casapatrao/casadopatraomulticam1.png",Casa do Patrão Multicam 1
+http://172.110.219.252:80/live/47125065/12264670/5144922.ts
+
+#EXTINF:-1 tvg-id="tv.senado.br" tvg-name="TV Senado" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/tv-senado-logo.png" group-title="Canais | Variedades",TV Senado
+http://172.110.219.252:80/live/47125065/12264670/127185.ts
+
+#EXTINF:-1 group-title="♦️Canais | Abertos" tvg-logo="https://logos.imperioapps.top/TV_CAMARA.png",TV Camara
+http://172.110.219.252:80/live/47125065/12264670/127173.ts
+ 
+#EXTINF:-1 tvg-id="" tvg-name="TV BRASIL" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2021/03/TV-Brasil-logo.jpg" group-title="Canais | TV BRASIL",TV BRASIL
+https://tvbrasil-stream.ebc.com.br/index.m3u8
+ 
+#EXTINF:-1 tvg-id="BAND Brasília" tvg-name="BAND Brasília" tvg-logo="https://www.portaldosjornalistas.com.br/wp-content/uploads/2018/01/Logo-Band.png" group-title="CANAIS | NOTÍCIAS",BAND Brasília
+http://172.110.219.252:80/live/47125065/12264670/127435.ts
+ 
+#EXTINF:-1 tvg-id="REDE TV" tvg-name="REDE TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ec/RedeTV%21.png" group-title="CANAIS | NOTÍCIAS",REDE TV
+http://172.110.219.252:80/live/47125065/12264670/127156.ts
+ 
+#EXTINF:-1 tvg-id="RECORD Brasília" tvg-name="RECORD Brasília" tvg-logo="https://i1.r7.com/data/files/2C95/948F/35B7/7306/0135/BC63/3B30/08E3/record_700x525.jpg" group-title="CANAIS | NOTÍCIAS",RECORD Brasília
+http://172.110.219.252:80/live/47125065/12264670/127559.ts
+ 
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.imgur.com/TlqB0Uo.png",Record Goiás
+http://172.110.219.252:80/live/47125065/12264670/2591480.ts
+ 
+#EXTINF:-1 tvg-id="GLOBO Brasília" tvg-name="GLOBO Brasília" tvg-logo="https://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg" group-title="CANAIS | NOTÍCIAS",GLOBO Brasília
+http://dns.papayapt.com.br:80/adl021222/iptvemcasa@1/1924
+ 
+#EXTINF:-1 tvg-id="SBT Brasília" tvg-name="SBT Brasília" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a7/SBT_Logo_Black_1981-1988.png" group-title="CANAIS | NOTÍCIAS",SBT Brasília
+http://172.110.219.252:80/live/47125065/12264670/127291.ts
+ 
+#EXTINF:-1 tvg-id="Anhanguera Tocantins" tvg-name="Anhanguera Tocantins" tvg-logo="https://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg" group-title="CANAIS | NOTÍCIAS",Anhanguera Tocantins
+http://172.110.219.252:80/live/47125065/12264670/153551.ts
+ 
+#EXTINF:-1 tvg-id="Canal UOL" tvg-name="Canal UOL" tvg-logo="https://jornaldobras.com.br/images/noticias/83033/12085721_canal.png.png" group-title="CANAIS | NOTÍCIAS",Canal UOL
+http://dns.papayapt.com.br:80/adl021222/iptvemcasa@1/1280676
+ 
+#EXTINF:-1 tvg-id="RECORD NEWS" tvg-name="RECORD NEWS" tvg-logo="https://raw.githubusercontent.com/skyrisk/brazucaplay/master/logos/record_news.png" group-title="CANAIS | NOTÍCIAS",RECORD NEWS
+https://rnw-rn-soultv.otteravision.com/rnw/rn/rnw_rn.m3u8
+ 
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://s2.glbimg.com/KV5eehME-_BD7QEL-W06_2swk4U=/s.glbimg.com/og/rg/f/original/2014/04/03/vemai_marca_1.jpg",Globo News
+http://dns.papayapt.com.br:80/adl021222/iptvemcasa@1/2130
+ 
+#EXTINF:-1 group-title="NOTÍCIAS" tvg-logo="https://i.imgur.com/TlqB0Uo.png",SBT News
+http://dns.papayapt.com.br:80/adl021222/iptvemcasa@1/1277676
+ 
+#EXTINF:-1 tvg-id="band.news.br" tvg-name="Band News HD" tvg-logo="https://i.imgur.com/VN1Z2T0.png" group-title="Canais | Notícias",Band News HD
+http://172.110.219.252:80/live/47125065/12264670/151814.ts
+ 
+#EXTINF:-1 tvg-id="JP NEWS" tvg-name="JP NEWS" tvg-logo="https://i.imgur.com/MWGAfvV.png" group-title="CANAIS | NOTÍCIAS",JP NEWS HD
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8
+ 
+#EXTINF:-1 tvg-id="cnn.brasil.br" tvg-name="CNN Brasil" tvg-logo="https://i.imgur.com/50cg2k5.png" group-title="Canais | Notícias",CNN Brasil
+http://46.151.196.223:14085
+ 
+#EXTINF:-1 tvg-id="multishow.br" tvg-name="Multishow HD" tvg-logo="https://i.imgur.com/u1Dm4Z0.png" group-title="Canais | Variedades",Multishow HD
+http://play.dnsrot.vip:80/live/huhenz/fa7kum6q4bm/36957.ts
+ 
+ 
+ 
+#EXTINF:-1 tvg-id="discovery.br" tvg-name="Discovery Channel HD" tvg-logo="https://i.imgur.com/B1DjY6Y.png" group-title="Canais | Documentarios",Discovery Channel HD
+http://172.110.219.252:80/live/47125065/12264670/125220.ts
+ 
+#EXTINF:-1 tvg-id="animal.planet.br" tvg-name="Animal Planet HD" tvg-logo="https://i.imgur.com/YNPhY7d.png" group-title="Canais | Documentarios",Animal Planet HD
+http://172.110.219.252:80/live/47125065/12264670/125104.ts
+ 
+#EXTINF:-1 tvg-name="[24hs] Dragon Ball Super 2" tvg-logo="https://i.imgur.com/mV4smS6.png" group-title="Canais | 24h Infantil",[24hs] Dragon Ball Super 2
+http://172.110.219.252:80/live/47125065/12264670/816224.ts
+
+#EXTINF:-1 group-title="CANAIS | ESPORTES PPV" tvg-logo="https://i.imgur.com/0iq8t8j.png",Amazon Prime 01
+http://172.110.219.252:80/live/47125065/12264670/150703.ts
+
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video" tvg-logo="https://logos.imperioapps.top/PRIME_VIDEO.png",Prime Video 02
+http://172.110.219.252:80/live/47125065/12264670/150704.ts
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video" tvg-logo="https://logos.imperioapps.top/PRIME_VIDEO.png",Prime Video 03
+http://172.110.219.252:80/live/47125065/12264670/150705.ts
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video" tvg-logo="https://logos.imperioapps.top/PRIME_VIDEO.png",Prime Video 04
+http://172.110.219.252:80/live/47125065/12264670/150706.ts
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video" tvg-logo="https://logos.imperioapps.top/PRIME_VIDEO.png",Prime Video 05
+http://172.110.219.252:80/live/47125065/12264670/150707.ts
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video" tvg-logo="https://logos.imperioapps.top/PRIME_VIDEO.png",Prime Video 01²
+http://172.110.219.252:80/live/47125065/12264670/252418.ts
+#EXTINF:-1 group-title="♦️Canais | Amazon Prime Video" tvg-logo="https://logos.imperioapps.top/PRIME_VIDEO.png",Prime Video 03²
+http://172.110.219.252:80/live/47125065/12264670/252420.ts
+
+#EXTINF:-1 group-title="♦️Canais | Disney+" tvg-logo="https://logos.imperioapps.top/DISNEY+.png",Disney+ 01
+http://172.110.219.252:80/live/47125065/12264670/153076.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+" tvg-logo="https://logos.imperioapps.top/DISNEY+.png",Disney+ 02
+http://172.110.219.252:80/live/47125065/12264670/153077.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+" tvg-logo="https://logos.imperioapps.top/DISNEY+.png",Disney+ 03
+http://172.110.219.252:80/live/47125065/12264670/153078.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+" tvg-logo="https://logos.imperioapps.top/DISNEY+.png",Disney+ 04
+http://172.110.219.252:80/live/47125065/12264670/153079.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+" tvg-logo="https://logos.imperioapps.top/DISNEY+.png",Disney+ 05
+http://172.110.219.252:80/live/47125065/12264670/153080.ts
+#EXTINF:-1 group-title="♦️Canais | Disney+" tvg-logo="https://logos.imperioapps.top/DISNEY+.png",Disney+ 06
+http://172.110.219.252:80/live/47125065/12264670/153086.ts
+
+#EXTINF:-1 group-title="♦️Canais | Paramount +" tvg-logo="http://32q0d.xyz/images/Paramount.png",Paramount+ PLTF 01 FHD
+http://172.110.219.252:80/live/47125065/12264670/152574.ts
+#EXTINF:-1 group-title="♦️Canais | Paramount +" tvg-logo="http://32q0d.xyz/images/Paramount.png",Paramount+ PLTF 02 FHD
+http://172.110.219.252:80/live/47125065/12264670/152575.ts
+#EXTINF:-1 group-title="♦️Canais | Paramount +" tvg-logo="http://32q0d.xyz/images/Paramount.png",Paramount+ PLTF 03 FHD
+http://172.110.219.252:80/live/47125065/12264670/152576.ts
+
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE" tvg-logo="https://logos.imperioapps.top/UFC_FIGHT_PASS.png",UFC Fight Pass 01
+http://172.110.219.252:80/live/47125065/12264670/122909.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE" tvg-logo="https://logos.imperioapps.top/UFC_FIGHT_PASS.png",UFC Fight Pass 02
+http://172.110.219.252:80/live/47125065/12264670/122910.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE" tvg-logo="https://logos.imperioapps.top/UFC_FIGHT_PASS.png",UFC Fight Pass 03
+http://172.110.219.252:80/live/47125065/12264670/122911.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE" tvg-logo="https://logos.imperioapps.top/UFC_FIGHT_PASS.png",UFC Fight Pass 1²
+http://172.110.219.252:80/live/47125065/12264670/251923.ts
+#EXTINF:-1 group-title="♦️Canais | UFC&COMBATE" tvg-logo="https://logos.imperioapps.top/COMBATE.png",COMBATE FHD²
+http://172.110.219.252:80/live/47125065/12264670/2527477.ts
+#EXTINF:-1 group-title="♦️Canais | Variedades" tvg-logo="https://portalamazonia.com/wp-content/uploads/2022/05/b2ap3_large_atual-logo.jpg",Amazon SAT FHD
+http://172.110.219.252:80/live/47125065/12264670/151382.ts
+
+#EXTINF:-1 group-title="♦️Canais | Variedades" tvg-logo="https://logos.imperioapps.top/FISH_TV.png",FishTV FHD
+http://172.110.219.252:80/live/47125065/12264670/254235.ts
+
+#EXTINF:-1 group-title="♦️ Lançamentos ⭐" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/obv2Dt7T8p9lxtfl2qguuRL6nF8.jpg",Amor Demais (2026)
+http://bmnew26.site:80/movie/prodigital/x7tWzFv9tE/4173143.mp4
+
+ 
+ 
+#EXTINF:-1 tvg-id="" tvg-name="CATVE FM" tvg-logo="https://img.radios.com.br/radio/xl/radio22811_1718986450.jpg" group-title="Canais | CATVE FM",CATVE FM
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
